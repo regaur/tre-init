@@ -1,6 +1,6 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 pkgname=tre-init
-pkgver=1.24.2
+pkgver=1.24.3
 pkgrel=1
 pkgdesc="Command line tools for tre"
 arch=('any')
